@@ -1,7 +1,7 @@
 <h1 align="center" style="text-align:center;line-height:10pt;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">YouTube Channel Word Analyzer</h1>
 
 **What is the purpose of this project?**
-> Purpose of this scripts were to let someone analyze a youtube channel so that he/she can get I an idea about what are the most used words fo that youtube channel. I consider auto generated closed captions for this analysis.
+> Purpose of this scripts to help someone analyze a youtube channel so that he/she can get an idea about what are the most used words fo that youtube channel. I consider auto generated closed captions for this analysis.
 
 **Terminal Commands**
 > python3 -m venv venv\
