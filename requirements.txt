@@ -1,5 +1,5 @@
 beautifulsoup4==4.4.1
-certifi==2019.9.11
+certifi==2022.12.7
 chardet==3.0.4
 cssutils==1.0.2
 enum34==1.1.6
